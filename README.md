@@ -1,3 +1,4 @@
+<img width="1402" height="1122" alt="er_diagram" src="https://github.com/user-attachments/assets/b82635a3-c309-414b-9a5f-4b8dad759524" />
 # Student-Course-Enrollment-Project
 A database mini project built using MySQL to handle student records, course management, enrollment tracking, exams, and results. Showcases SQL concepts like table relationships, joins, and aggregate functions.
 
