@@ -31,7 +31,7 @@ This project is a MySQL-based database system designed to manage students, cours
 - `schema.sql` – Database structure
 - `data.sql` – Sample data
 - `queries.sql` – SQL queries for analysis
-- 'er_diagram.png` – ER diagram representing entities and relationships
+- `er_diagram.png` – ER diagram representing entities and relationships
 
 ##  Sample Queries
 - List all students
